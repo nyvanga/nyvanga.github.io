@@ -1,0 +1,33 @@
+! 2 Dec 2024 https://www.tv2east.dk
+www.tv2east.dk###east-newsletter
+
+! https://static.queue-it.net
+||static.queue-it.net
+
+! https://www.aula.dk
+www.aula.dk##.scrollbar.modal-aula
+www.aula.dk##.show.fade.modal-backdrop.modal-aula-backdrop
+
+! 2022-10-27 https://code2care.org
+code2care.org###myModalAB
+
+! 2023-06-13 https://ing.dk
+||service.tekhus.dk/kv-prx/$image
+
+! 2023-06-16 https://www.computersalg.dk
+www.computersalg.dk##.swal2-popup
+
+! https://www.bt.dk
+www.bt.dk##.scrollUp.next-article-button--container
+www.bt.dk###CybotCookiebotDialogBodyUnderlay
+www.bt.dk##.CybotCookiebotDialogContentWrapper
+www.bt.dk###newsletterSignUp
+www.bt.dk##.Softwall__person
+www.bt.dk##.Softwall__title
+www.bt.dk##.Softwall__content
+www.bt.dk##.Softwall__button
+
+! 2023-09-02 https://ekstrabladet.dk
+ekstrabladet.dk###gaPayflowContainer
+ekstrabladet.dk###CybotCookiebotDialog
+ekstrabladet.dk###CybotCookiebotDialogBodyUnderlay
